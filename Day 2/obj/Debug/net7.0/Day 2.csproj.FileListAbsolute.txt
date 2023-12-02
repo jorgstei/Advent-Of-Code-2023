@@ -1,0 +1,14 @@
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\bin\Debug\net7.0\Day 2.exe
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\bin\Debug\net7.0\Day 2.deps.json
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\bin\Debug\net7.0\Day 2.runtimeconfig.json
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\bin\Debug\net7.0\Day 2.dll
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\bin\Debug\net7.0\Day 2.pdb
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfoInputs.cache
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.AssemblyInfo.cs
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.dll
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\refint\Day 2.dll
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.pdb
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\Day 2.genruntimeconfig.cache
+C:\Users\jost\source\repos\Advent-Of-Code-2023\Day 2\obj\Debug\net7.0\ref\Day 2.dll
